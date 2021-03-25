@@ -1,2 +1,2 @@
 # Images-classification-log-reg-
-Logistic regression for images classification.
+Lab: Logistic regression for images classification.
