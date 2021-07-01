@@ -1,3 +1,2 @@
 # Images-classification-log-reg-
-Lab: Logistic regression for images classification. 
-In python from scratch.
+School lab work: Logistic regression for images classification. 
